@@ -1,2 +1,2 @@
 # mycpp
-mycpp
+The CPlusPlus Class
